@@ -69,7 +69,7 @@ For full details, look at the demo program.
       * LightTheme - The Visual Studio 2012 light theme.
       * VS2010 - The Visual Studio 2010 theme.
 
-###Other things
+### Other things
 - Wide by default Save's and Restore's layout along with opening documents.
 - Wide also comes with a logger module as a separate assembly which you can use in you application. (Wide.Tools.Logger)
 
